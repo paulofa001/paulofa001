@@ -1,6 +1,6 @@
 ![Banner](https://github.com/paulofa001/treinamentos/blob/main/dio.me/tqi-fullstack-developer/MODULO%20II%20-%20HTML%20e%20CSS3/Introdu%C3%A7%C3%A3o%20a%20Cria%C3%A7%C3%A3o%20de%20Websites%20com%20HTML5%20e%20CSS3/FotoUnsplash960largx322altPixels.png)
 
-<h1 align="center">Hi, my name is Paulo</h1>
+<h1 align="center">Hi, my name is Paulo Franco Alves</h1>
 <h3 align="center">Fullstack Developer (Home Office)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofa001&label=Profile%20views&color=0e75b6&style=flat" alt="paulofa001" /> </p>
